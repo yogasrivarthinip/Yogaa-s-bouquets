@@ -1,0 +1,6 @@
+{
+  "name": "Maison Pétale — Artisanal Botanical Atelier & Bouquets",
+  "description": "Bespoke handcrafted floral bouquets, interactive custom stem atelier, seasonal botanical arrangements, and thoughtful gift delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
