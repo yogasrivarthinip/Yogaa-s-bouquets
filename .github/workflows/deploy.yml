@@ -36,6 +36,8 @@ jobs:
 
       - name: Build project
         run: npm run build
+        env:
+          BASE_URL: /Yogaa's bouquets/
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v4
